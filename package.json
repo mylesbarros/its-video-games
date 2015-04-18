@@ -1,9 +1,12 @@
 {
   "name": "its-video-games",
-  "title": "its-video-games",
+  "title": "It's Video Games",
   "id": "jid1-9G8gZRJywmSsOQ",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "Replaces occurrences of 'videogame' (and variants therof) with 'video game' the way it was meant to be spelled.",
+  "author": "Myles V. Barros",
+  "icon": "icon.png",
+  "icon64": "icon.png",
+  "homepage": "https://github.com/mylesbarros/its-video-games",
+  "license": "DWtFYWtPL 2.0",
+  "version": "1.0"
 }
