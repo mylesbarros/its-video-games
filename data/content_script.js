@@ -33,5 +33,3 @@ function handleText(textNode)
 	v = v.replace(/\b([Vv])ideogame(s?)\b/g, "$1ideo game$2");
 	textNode.nodeValue = v;
 }
-
-
